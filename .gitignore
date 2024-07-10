@@ -1,0 +1,5 @@
+*.zip
+terraform/environment/develop/.terraform/*
+*tfstate*
+*terraform.lock*
+*/*/lambda_dependencies
